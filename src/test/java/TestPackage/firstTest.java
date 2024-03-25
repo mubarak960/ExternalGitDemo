@@ -6,7 +6,7 @@ public class firstTest {
 	
 		System.out.println("First sentence added");
 		System.out.println("Second sentence added");
-
+		System.out.println("Third sentence added");
 	}
 
 }
