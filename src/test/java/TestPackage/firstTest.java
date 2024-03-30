@@ -12,6 +12,10 @@ public class firstTest {
 		System.out.println("Sixth sentence added in master branch from github");
 		System.out.println("Seventh sentence added in master branch from github");
 		System.out.println("Seventh sentence added in master branch from local");
+		System.out.println("First sentence added from github");
+		System.out.println("Second sentence added from github");
+		System.out.println("Third sentence added from github");
+		System.out.println("Fourth sentence added from github");
 	}
 
 }
